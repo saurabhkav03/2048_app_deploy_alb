@@ -45,7 +45,7 @@
 2. **Deploy the app**:
    - Apply the deployment, service, and ingress YAML file:
      ```sh
-     kubectl apply -f https://github.com/saurabhkav03/2048_app_deploy_alb/2048.yml
+     kubectl apply -f https://raw.githubusercontent.com/saurabhkav03/2048_app_deploy_alb/main/2048-full.yml
      ```
 
 3. **Create and deploy ALB ingress controller**:
