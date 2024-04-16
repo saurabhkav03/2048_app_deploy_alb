@@ -3,7 +3,7 @@ Sure, here are the delete instructions in raw format suitable for adding to a Gi
 ```
 1. **Delete the Deployment, Service, and Ingress**:
    ```sh
-   kubectl delete -f https://github.com/saurabhkav03/2048_app_deploy_alb/2048.yml
+   kubectl delete -f https://raw.githubusercontent.com/saurabhkav03/2048_app_deploy_alb/main/2048-full.yml
    ```
 
 2. **Delete the Fargate Profile**:
